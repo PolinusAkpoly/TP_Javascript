@@ -1,0 +1,157 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body
+{
+
+    font-family: 'Poppins', sans-serif;     
+ background-color: black;   
+margin-left: 80px;
+overflow: hidden;
+}
+
+
+
+.contener .text 
+{
+margin-top: 80px;
+
+
+}
+
+.contener .text h1
+{
+font-size: 40px;
+color: white;
+
+}
+
+
+
+.contener .text p
+{
+margin-top: -40px;
+color: white;
+font-size: 10px;
+}
+
+.grandvéhicul
+{
+    position: relative;
+}
+
+.ty
+{
+display: flex;
+
+}
+
+.contener .text a
+{
+background-color: red;
+color: white;
+border-radius: 20px;
+padding: 10px 20px;
+font-size: 16px;
+border: none;
+text-decoration: none;
+}
+
+
+.petitvoitu ul
+{
+display: flex;
+flex-wrap: nowrap;
+justify-content: center;
+position: relative;
+cursor: pointer;
+list-style: none;
+
+}
+
+
+.petitvoitu li:hover
+{
+transform: translateY(-20px);
+
+}
+
+.icon
+{
+display: flex;
+flex-direction: column;
+color: white;
+position: absolute;
+top: 250px;
+right: 60px;
+}
+
+
+
+.icon i
+{
+margin-top: 40px;
+}
+
+
+
+.CERCLE
+{
+width: 96%;
+height: 98%;
+background-color: red;
+clip-path: circle(600px at right 400px);
+position: absolute;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
